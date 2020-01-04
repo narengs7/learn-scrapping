@@ -1,2 +1,2 @@
-# learn-scrapping
-Leaning Scrapping using python
+# Scrapping
+Leaning Scrapping
